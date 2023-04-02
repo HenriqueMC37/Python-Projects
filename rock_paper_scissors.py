@@ -1,6 +1,6 @@
 from random import randint
 
-#create a list of play options:
+#create a list of play options
 options = ["rock", "paper", "scissors"]
 
 #assign a random play to the computer between the indexes of 0(rock) and 2(scissors)
